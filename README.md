@@ -1,5 +1,7 @@
-# WindowsPerfTestResources
+# WindowsPerf Project is now located in Linaro
 
-This package contains a collection of small projects designed to test and demonstrate the capabilities of WindowsPerf. These projects serve as examples and benchmarks to help users understand how to utilize WindowsPerf for performance profiling and analysis on Windows systems.
-
-> :warning: This repo is used mostly by WindowsPerf test for internal testing.
+See [WindowsPerf](https://gitlab.com/Linaro/WindowsPerf) project and its components here:
+- [WindowsPerf Visual Studio Extension](https://gitlab.com/Linaro/WindowsPerf/vs-extension)
+- [WindowsPerf CLI and Kernel Driver](https://gitlab.com/Linaro/WindowsPerf/windowsperf)
+- [WindowsPerf WPA-plugin](https://gitlab.com/Linaro/WindowsPerf/wpa-plugin)
+- [WindowsPerf WPA-plugin ETL](https://gitlab.com/Linaro/WindowsPerf/wpa-plugin-etl)
